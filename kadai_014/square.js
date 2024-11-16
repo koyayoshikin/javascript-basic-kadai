@@ -1,7 +1,7 @@
 const square = (val) => {
 
-  console.log(val * val);
+  return val * val;
 
 }
 
-square(10);
+console.log(square(10));
